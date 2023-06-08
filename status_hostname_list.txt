@@ -37,7 +37,7 @@ ping6;www.google.com|www.google.com (IPv6)
 #
 # nc;<HOSTNAME or IP>;<PORT>
 #
-nc;www.heise.de;80
+nc;www.icrc.org;80
 nc;www.bsi.de|My secret Hostname;80
 
 #
